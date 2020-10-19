@@ -1,6 +1,6 @@
-function captures () {
-
+function captures (name) {
+let name = captures
 }
 
 
-return captures
+return ("name")
